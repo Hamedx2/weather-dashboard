@@ -1,0 +1,86 @@
+{
+  "translation": {
+    "logout": "You logged out successfully .",
+    "logoutQuestion": "Are you sure you want to log out?",
+    "logoutSubmit": "Log Out",
+    "logoutCancel": "Cancel",
+    "emptyName": "Please Enter Your Name !",
+    "login": {
+      "loginHeader": "Login",
+      "loginInputPlaceholder": "Enter Your Name",
+      "loginBtnText": "Login",
+      "textFieldLabel": "Language",
+      "persianOption": "Persian",
+      "englishOption": "English"
+    },
+    "dashboard": {
+      "welcome": "Welcome",
+      "loading": "We are Loading the Data, it may take a few seconds.",
+      "backtoLogin": "Please Enter Your Name first !",
+      "navbar": {
+        "title": "Weather Dashboard",
+        "locations": [
+          {
+            "name": "san francisco",
+            "value": "sf",
+            "lat": "37.7749",
+            "lon": "122.4194"
+          },
+          {
+            "name": "new york",
+            "value": "ny",
+            "lat": "40.7128",
+            "lon": "74.0060"
+          },
+          {
+            "name": "tehran",
+            "value": "teh",
+            "lat": "35.7219",
+            "lon": "51.3347"
+          },
+          {
+            "name": "rasht",
+            "value": "ra",
+            "lat": "37.2713",
+            "lon": "49.5921"
+          },
+          {
+            "name": "tabriz",
+            "value": "tb",
+            "lat": "38.0792",
+            "lon": "46.2887"
+          }
+        ],
+        "label": "Search Your Location",
+        "settings": {
+          "modeHeader": "Mode",
+          "modeDarkBtn": "dark",
+          "modeLightBtn": "light",
+          "languageHeader": "Language",
+          "languagePerBtn": "per",
+          "languageEnBtn": "en",
+          "exitText": "exit"
+        }
+      },
+
+      "footer": {
+        "copyRightText": "All rights of this site are reserved for Nadin Sadr Aria Engineering Company.",
+        "contact": "contact us : "
+      },
+      "body": {
+        "todayCard": {
+          "high": "High",
+          "low": "Low",
+          "feels": "Feels Like"
+        },
+        "forecastCard": {
+          "header": "2 weeks Forecast",
+          "today": "Today"
+        },
+        "chartCard": {
+          "header": "Average Monthly Temperature"
+        }
+      }
+    }
+  }
+}

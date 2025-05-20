@@ -1,0 +1,75 @@
+{
+  "translation": {
+    "logout": ".با موفقیت خارج شدید",
+    "logoutQuestion": "آیا مطمئن هستید که می‌خواهید خارج شوید؟",
+    "backtoLogin": "لطفا ابتدا نام خود را وارد کنید",
+    "logoutSubmit": "خروج",
+    "logoutCancel": "لغو",
+    "emptyName": "لطفا نام خود را وارد کنید !",
+    "login": {
+      "loginHeader": "ورود",
+      "loginInputPlaceholder": "نام خود را وارد کنید",
+      "loginBtnText": "ورود",
+      "textFieldLabel": "زبان",
+      "persianOption": "فارسی",
+      "englishOption": "انگلیسی"
+    },
+    "dashboard": {
+      "welcome": "خوش آمدی",
+      "loading": "در حال بارگذاری اطلاعات هستیم، ممکن است چند ثانیه طول بکشد.",
+      "navbar": {
+        "title": "داشبورد آب و هوا",
+        "locations": [
+          {
+            "name": "سن فرانسیسکو",
+            "value": "sf",
+            "lat": "37.7749",
+            "lon": "122.4194"
+          },
+          {
+            "name": "نیویورک",
+            "value": "ny",
+            "lat": "40.7128",
+            "lon": "74.0060"
+          },
+          {
+            "name": "تهران",
+            "value": "teh",
+            "lat": "35.7219",
+            "lon": "51.3347"
+          },
+          { "name": "رشت", "value": "ra", "lat": "37.2713", "lon": "49.5921" },
+          { "name": "تبریز", "value": "tb", "lat": "38.0792", "lon": "46.2887" }
+        ],
+        "label": "مکان مورد نظر را جستجو کنید",
+        "settings": {
+          "modeHeader": "مود",
+          "modeDarkBtn": "تاریک",
+          "modeLightBtn": "روشن",
+          "languageHeader": "زبان",
+          "languagePerBtn": "فارسی",
+          "languageEnBtn": "انگلیسی",
+          "exitText": "خروج"
+        }
+      },
+      "footer": {
+        "copyRightText": "همه حقوق این سایت برای شرکت مهندسی نادین صدر آریا محفوظ است.",
+        "contact": "تماس با ما : "
+      },
+      "body": {
+        "todayCard": {
+          "high": "بیشینه",
+          "low": "کمینه",
+          "feels": "درجه احساس می شود"
+        },
+        "forecastCard": {
+          "header": "پیش بینی 2 هفته",
+          "today": "امروز"
+        },
+        "chartCard": {
+          "header": "میانگین دمای ماهانه"
+        }
+      }
+    }
+  }
+}
