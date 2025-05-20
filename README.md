@@ -16,7 +16,6 @@ A responsive weather dashboard built with React and TypeScript that displays rea
     Axios-based API integration
 
 🧠 Project Structure
-
 weather/
 ├── public/
 │   └── images/
@@ -44,7 +43,6 @@ weather/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-
 🛠️ Tech Stack
 
     React + TypeScript
