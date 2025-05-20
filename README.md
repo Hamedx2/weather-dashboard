@@ -15,8 +15,10 @@ A responsive weather dashboard built with React and TypeScript that displays rea
 
     Axios-based API integration
 
-🧠 Project Structure
-    Current weather and temperature
+    Internationalization with i18next (Persian and English)
+
+## 📁 Project Structure
+```
 
    weather/
 ├── public/
@@ -45,33 +47,10 @@ A responsive weather dashboard built with React and TypeScript that displays rea
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-weather/
-├── public/
-│   └── images/
-│       ├── admin/
-│       └── dashboard/
-│           └── icons/
-├── src/
-│   ├── components/
-│   │   ├── dashboard/
-│   │   │   ├── body/
-│   │   │   ├── footer/
-│   │   │   └── navbar/
-│   │   └── login/
-│   ├── pages/
-│   ├── utils/
-│   │   ├── contexts/
-│   │   ├── helpers/
-│   │   ├── i18n/
-│   │   └── theme/
-│   ├── index.css
-│   ├── main.tsx
-│   └── App.tsx
-├── index.html
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-└── README.md
+
+```
+
+
 🛠️ Tech Stack
 
     React + TypeScript
